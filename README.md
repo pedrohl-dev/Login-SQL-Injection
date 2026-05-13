@@ -14,7 +14,8 @@ Página - login.php
 
 ------------------------------------
 
-<img width="200" height="99" alt="1000097543" src="https://github.com/user-attachments/assets/d4a37af9-6278-4123-839f-696744bb902a" />
+<img width="144" height="99" alt="1000097543" src="https://github.com/user-attachments/assets/d4a37af9-6278-4123-839f-696744bb902a" />
+
 Tabela DB
 
 <img width="622" height="209" alt="1000097542" src="https://github.com/user-attachments/assets/4968f9cd-d935-4b5d-a4bd-8b0ddbfdb104" />
