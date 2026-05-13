@@ -31,6 +31,7 @@ Tentativas de SQL Injection:
 <img width="575" height="455" alt="1000097538" src="https://github.com/user-attachments/assets/60853d6e-f5a4-4eae-96e5-b7585ea2b679" />
 2# - busca.php
 
+
 Foi usado o comando ' OR '1'='1' no input senha, 1=1 significa e o primeiro número é o segundo número são iguais, ja o SQL quando lê esse comando ele retorna TRUE (VERDADEIRO), pois 1 é igual a 1 e é verdadeiro.
 
 ------------------------------------
